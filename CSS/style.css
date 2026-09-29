@@ -20,3 +20,11 @@ ul {
 li {
     margin-bottom: 8px;
 }
+nav {
+    margin-bottom: 30px;
+}
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
